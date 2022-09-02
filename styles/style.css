@@ -1,0 +1,11 @@
+html{
+    background: rgb(38, 36, 36);
+}
+
+#heading{
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 80px;
+    font-family: 'Rubik Marker Hatch', serif;
+}
